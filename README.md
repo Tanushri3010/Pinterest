@@ -1,4 +1,4 @@
-# pinterest
+# Pinterest
 A Pinterest-inspired app designed for sharing, discovering, and organizing visual content. Users can upload images, categorize them into custom boards, explore popular collections, and save favorite pins. The app includes an intuitive, grid-based interface and features such as user profiles, image search, and personalized recommendations. Built with [Framework/Stack used], this project demonstrates core Pinterest-like functionality and offers a solid foundation for further expansion or customization.
 # Key Features
 **Pinning & Boards:** Users can upload images, create custom boards, and pin images to organize them by category.
